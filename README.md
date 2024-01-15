@@ -1,4 +1,4 @@
-# NetLogo Project: [Which type of queueing systems efficiently reduces customer waiting times and dissatisfaction in queues with a minimum workforce for fast-food restaurants?]
+# Restaurant Queueing Systems
 
 ## Overview
 Provide a brief description of what your NetLogo project is about. This should include the main goals of the project, the problem it aims to solve, or the phenomena it attempts to model.
